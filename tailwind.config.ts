@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				lounge: {
+					primary: 'hsl(var(--lounge-primary))',
+					accent: 'hsl(var(--lounge-accent))',
+					surface: 'hsl(var(--lounge-surface))',
+					'surface-hover': 'hsl(var(--lounge-surface-hover))',
+					glow: 'hsl(var(--lounge-glow))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
